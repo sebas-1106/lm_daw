@@ -1,0 +1,77 @@
+[
+    {
+
+        "catalogo":{
+            "producto":[
+                {
+                    "nombre":"Portatil",
+                    "categoria":"Portatiles",
+                    "disponibilidad":true,
+                    "precio": 550,
+                    "descripcion":"Equipo gaming"
+        }
+            ]
+        }
+        
+    },
+    {
+
+        "catalogo":{
+            "producto":[
+                {
+                    "nombre":"Portatil",
+                    "categoria":"Portatiles",
+                    "disponibilidad":true,
+                    "precio": 550,
+                    "descripcion":"Equipo gaming"
+        }
+            ]
+        }
+        
+    },
+    {
+
+        "catalogo":{
+            "producto":[
+                {
+                    "nombre":"Portatil",
+                    "categoria":"Portatiles",
+                    "disponibilidad":true,
+                    "precio": 550,
+                    "descripcion":"Equipo gaming"
+        }
+            ]
+        }
+        
+    },
+    {
+
+        "catalogo":{
+            "producto":[
+                {
+                    "nombre":"Portatil",
+                    "categoria":"Portatiles",
+                    "disponibilidad":true,
+                    "precio": 550,
+                    "descripcion":"Equipo gaming"
+        }
+            ]
+        }
+        
+    },
+    {
+
+        "catalogo":{
+            "producto":[
+                {
+                    "nombre":"Portatil",
+                    "categoria":"Portatiles",
+                    "disponibilidad":true,
+                    "precio": 550,
+                    "descripcion":"Equipo gaming"
+        }
+            ]
+        }
+        
+    }
+]

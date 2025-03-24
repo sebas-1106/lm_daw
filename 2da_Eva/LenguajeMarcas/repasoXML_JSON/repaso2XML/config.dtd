@@ -1,0 +1,11 @@
+    <!ELEMENT configuracion (sitio_web+)>
+    <!ELEMENT sitio_web (nombre, dominio, tecnologias_utilizadas, secciones, servidor+)>
+    <!ELEMENT nombre (#PCDATA)>
+    <!ELEMENT dominio (#PCDATA)>
+    <!ELEMENT tecnologias_utilizadas (tecnologia+)>
+    <!ELEMENT secciones (seccion+)>
+    <!ELEMENT seccion (#PCDATA)>
+    <!ELEMENT servidor (puerto,bbdd+)> 
+    <!ELEMENT puerto (#PCDATA)>
+    <!ELEMENT bbdd (#PCDATA)>
+    <!ELEMENT tecnologia (#PCDATA)>

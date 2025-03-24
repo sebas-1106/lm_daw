@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE configuracion [
+
+<!-- Validacion DTD en el propio fichero -->
+<!-- <!DOCTYPE configuracion [
     <!ELEMENT configuracion (sitio_web+)>
     <!ELEMENT sitio_web (nombre, dominio, tecnologias_utilizadas, secciones, servidor+)>
     <!ELEMENT nombre (#PCDATA)>
@@ -11,7 +13,13 @@
     <!ELEMENT puerto (#PCDATA)>
     <!ELEMENT bbdd (#PCDATA)>
     <!ELEMENT tecnologia (#PCDATA)>
-]>
+]> -->
+<!-- <!DOCTYPE configuracion SYSTEM "config.dtd"> -->
+<!-- Enlazar con XSD estandar -->
+<!-- <configuracion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="config.xsd"> -->
+<!-- Enlazado con XSD con xml model -->
+<?xml-model href="config.xsd"?>
 <configuracion>
     <sitio_web>
 

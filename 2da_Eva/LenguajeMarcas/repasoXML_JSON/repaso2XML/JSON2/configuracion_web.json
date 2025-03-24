@@ -1,0 +1,26 @@
+[
+    {
+        "configuracion":{
+                "sitio_web":[
+                    {
+                    "nombre":"Discoteca El Parcero",
+                    "dominio":"www.discoteca.Elparcero.com",
+                    "tecnologias_utilizadas":[
+                            "Angular",
+                            "Typescript",
+                            "GO"
+                    ],
+                        "secciones":[
+                            "Home",
+                            "News",
+                            "About"
+                        ],
+                        "servidor":{
+                            "puerto":3010,
+                            "bbdd":"SQL server"
+                        }
+                    }
+                ]
+        }
+    }
+]
