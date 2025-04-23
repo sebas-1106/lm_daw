@@ -1,0 +1,19 @@
+[
+    {
+   "Caracteristicas": [ {
+        "marca": "Versace",
+        "color": "black",
+        "size": "M",
+        "quantity": 1500
+    },
+
+    {
+        "marca": "Gucci",
+        "color": "green", 
+        "size": "L", 
+        "quantity": 800
+    }
+   ]
+}
+
+]
