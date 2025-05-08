@@ -11,8 +11,8 @@ class Usuario {
 }
 
 class Admin extends Usuario{
-    constructor(nombre, email, rol){
-        super(nombre, email);
+    constructor(nombre, correo, rol){
+        super(nombre, correo);
         this.rol= rol;
     }
 
